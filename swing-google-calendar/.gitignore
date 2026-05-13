@@ -1,0 +1,11 @@
+# Build outputs
+/dist/
+/out/
+/target/
+*.class
+*.jar
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
